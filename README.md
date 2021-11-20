@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minjidays&repo=minji-sound&theme=gotham)](https://github.com/minjidays/minji-sound)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjidays&theme=gotham&layout=compact&langs_count=8m&show_icons=true)](https://github.com/minjidays/github-readme-stats) 
 
